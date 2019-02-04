@@ -28,7 +28,7 @@ import java.util.Map;
  * With this solution the RentalManager both aware of the maximum number of instances a particular car can have, and only aware of collections of cars as programmed by the interface of objects of type Car (but not aware of the existence of cars of any particular type).
  * This is implemented by maps of String, integer key-value pairs.
  *
- * @author B6070824
+ * @author Callum Dempsey Leach
  */
 public final class RentalManager {
 
